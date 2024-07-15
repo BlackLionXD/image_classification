@@ -8,5 +8,6 @@ The project allows users to input an image and receive a text-based classificati
 - install required python modules: pip install gradio transformers torch torchvision torchaudio
 - run the project: python main.py
 
-#Screenshots
+# Screenshots
+
 ![Screenshot](image/Screenshot%202024-07-15%20at%2007-00-02%20Gradio.png)
